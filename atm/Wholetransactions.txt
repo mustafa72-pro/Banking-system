@@ -1,0 +1,3 @@
+Type 		Amount 	Date 		Before 	After 	Name 
+Deposit 	500	4\5\2018  13:33	20000	20500	ahmed123
+Withdraw	500	4\5\2018  13:34	20500	20000	ahmed123
